@@ -1,8 +1,8 @@
-# Project 6 - *Instagram2016*
+# Project 6 - *Parse Instagram*
 
-**Instagram2016** is a photo sharing app using Parse as its backend.
+**Parse Instagram** is a photo sharing app using Parse as its backend.
 
-Time spent: **10** hours spent in total
+Time spent: **14** hours spent in total
 
 ## User Stories
 
@@ -48,7 +48,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2016] [Tarang Khanna]
+    Copyright [2016] []
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
